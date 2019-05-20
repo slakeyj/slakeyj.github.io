@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+![Image](https://avatars2.githubusercontent.com/u/50842036?s=460&v=4)
 
-You can use the [editor on GitHub](https://github.com/slakeyj/slakeyj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Susanna Lakey
+**About Me**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've worked and volunteered in animal rescue for six years working specifically with cats.  I've lived in Seattle for nine years and recently moved to a new home in Ballard with my husband and our 3 cats.  Though I'm still passionate about animal rescue, I'm excited to start a new chapter in my life and learn how to program at Code Fellows. 
 
-### Markdown
+**Contact**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+E-Mail: susannalakey@gmail.com
 
-```markdown
-Syntax highlighted code block
+[GitHub Profile](https://github.com/slakeyj)
 
-# Header 1
-## Header 2
-### Header 3
+**What is a Growth Mindset**
 
-- Bulleted
-- List
+A growth mindset is one that is accepting of challenges and mistakes.  Challenges are *embraced* rather than avoided.
 
-1. Numbered
-2. List
+#### Reminders to myself on how to keep myself on a growth mindset:
+- Don't ignore criticism, but learn from it.
+- Don't view others successes as a threat.  Be inspired by them.
+- Don't lose focus when obstacles come your way.  Persist through them.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/slakeyj/slakeyj.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
