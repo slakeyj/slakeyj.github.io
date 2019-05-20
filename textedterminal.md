@@ -15,3 +15,6 @@
 * Does it have a good selection of extensions?
  
    * As you become more proficient in software development, you may find that there are different things you would like to be able to do within your text editor.  This can be made possible through different extensions offered by your editor.  
+   
+   
+Though many operating systems come with text editors already installed on them, I wouldn't reccomend them.  They don't typically have any of the abilities mentioned in the list above and may cause you to more pain than if you were to use a more specialized text editor.
