@@ -6,4 +6,12 @@
  
  * Does it offer syntax highlighting?
     
-     * Syntax highlighting is an ability many text editors have to give different items of your code it's own unique color. For example, the color for an element will be different from that of an attribute.
+     * Syntax highlighting is an ability many text editors have to give different items of your code it's own unique color. For example, the color for an element will be different from that of an attribute. This ability makes it easier to quickly see where your code is and whether they are working as intended.
+     
+* Does it offer a variety of themes?
+    
+    * As a software developer it's important to take eye strain into consideration.  Themes with a dark background are popular because they help to reduce eye strain.
+    
+* Does it have a good selection of extensions?
+ 
+   * As you become more proficient in software development, you may find that there are different things you would like to be able to do within your text editor.  This can be made possible through different extensions offered by your editor.  
