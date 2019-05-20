@@ -36,4 +36,8 @@ Markdown is a simple way to stylize and organize text on your website.  It uses 
 3. Three
 ```
 
-**Adding an Image**
+**Adding a Link**
+
+```[Link Text Here](http://github.com)```
+
+This is only a handful of the many useful things that can be created with Markdown.
