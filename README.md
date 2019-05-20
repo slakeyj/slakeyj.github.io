@@ -9,7 +9,7 @@ I've worked and volunteered in animal rescue for six years working specifically 
 
 E-Mail: susannalakey@gmail.com
 
-[GitHub Profile](https://github.com/slakeyj)
+[GitHub](https://github.com/slakeyj)
 
 **What is a Growth Mindset**
 
