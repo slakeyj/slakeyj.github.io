@@ -1,7 +1,7 @@
 
 # What is Markdown?
 
-Markdown is a simple way to stylize and organize text on your website.  It uses symbols such as * and ``` - ``` to create some of these changes. You can also use it to create and links and to add pictures.
+Markdown is a simple way to stylize and organize text on your website.  It will often use symbols to create some of these changes. You can also use it to create links and to add pictures.
 
 ## Examples
 
