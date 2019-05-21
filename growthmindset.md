@@ -6,3 +6,4 @@ A growth mindset is one that is accepting of challenges and mistakes.  Challenge
 - Don't ignore criticism, but learn from it.
 - Don't view others successes as a threat.  Be inspired by them.
 - Don't lose focus when obstacles come your way.  Persist through them.
+s
