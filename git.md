@@ -19,7 +19,7 @@ Types of Version Control:
   - Modified: file has been changed, but not committed;
   - Staged: A changed version of a file that is flagged to be committed.
   
-#### The local respository has 3 components: 
+#### The local repository has 3 components: 
 1. Working Directory:  Where actual files reside.
 2. Index: Area used for staging.
 3. Head: Points to the most recent commit.
@@ -56,7 +56,7 @@ Commits all modifications of tracked files in a working directory.
 
 #### Push
 
-```$ git push origin masster```
+```$ git push origin master```
 
 Pushes changes from local master branch to remote repository name "origin".
 
