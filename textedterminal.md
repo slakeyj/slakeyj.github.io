@@ -6,7 +6,7 @@
  
  * Does it offer syntax highlighting?
     
-     * Syntax highlighting is an ability many text editors have to give different items of your code it's own unique color. For example, the color for an element will be different from that of an attribute. This ability makes it easier to quickly see where your code is and whether they are working as intended.
+     * Syntax highlighting is an ability many text editors have to give different items of your code their own unique color. For example, the color for an element will be different from that of an attribute. This ability makes it easier to quickly see where your code is and whether it is working as intended.
      
 * Does it offer a variety of themes?
     
@@ -17,7 +17,7 @@
    * As you become more proficient in software development, you may find that there are different things you would like to be able to do within your text editor.  This can be made possible through different extensions offered by your editor.  
    
    
-Though many operating systems come with text editors already installed on them, I wouldn't reccomend them.  They don't typically have any of the abilities mentioned in the list above and may cause you to more pain than if you were to use a more specialized text editor.
+Though many operating systems come with text editors already installed on them, I wouldn't reccomend them.  They don't typically have any of the abilities mentioned in the list above and may cause you more pain than if you were to use a more specialized text editor.
 
 ## Terminal Cheat Sheet
 
@@ -39,7 +39,7 @@ Though many operating systems come with text editors already installed on them, 
   
   * ls: List. Lists what is in the current directory.
   
-  * ls -a: Lists everything in a the current directory included hidden files.
+  * ls -a: Lists everything in the current directory included hidden files.
   
   * cd: Change Directory.
   
