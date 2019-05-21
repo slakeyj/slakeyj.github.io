@@ -72,5 +72,7 @@ Gives a view of the short names of all remote handles.
 
 Lets you view all remote URLs next to their short names.
 
+[Home Page](https://slakeyj.github.io/)
+
 
 

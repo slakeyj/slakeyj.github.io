@@ -51,3 +51,4 @@ Though many operating systems come with text editors already installed on them, 
   
   * file: Tells you what type of file a file or directory is.
  
+ [Home Page](https://slakeyj.github.io/)
