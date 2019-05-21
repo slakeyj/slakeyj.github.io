@@ -2,6 +2,14 @@
 
 Version Control allows you to revisit different versions of a file by recording those changes.  
 
+Types of Version Control:
+
+- Local Version Control: One database on your hard drive that stores changes to files.
+
+- Centralized Version Control System (CVCS): A single server storing all changes and versions of files which can then be accessed by different clients. 
+
+- Distributed Version Control System (DVCS):  Allows clients to create mirrored repositories.  This helped to eliminate the weakness of a CVCS's one centralized point.
+
 ## What is Git? 
 
 - Git is a distributed version control system (DVCS) that stores data in a file system made up of snapshots.
