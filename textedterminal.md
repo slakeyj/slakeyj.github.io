@@ -18,3 +18,30 @@
    
    
 Though many operating systems come with text editors already installed on them, I wouldn't reccomend them.  They don't typically have any of the abilities mentioned in the list above and may cause you to more pain than if you were to use a more specialized text editor.
+
+## Terminal Cheat Sheet
+
+* To access the Terminal on a Mac, press Command + Space to open Spotlight. Type in "Terminal" so it will show up.
+
+* Commands are stored to a history.  You can access commands you have already entered by using the up and down arrow keys.
+
+* Absolute Paths specify a location in relation to the root directory.
+
+* Relative Paths specify a location in relation to where you currently are.
+
+* Pressing Tab will autocomplete the folder or file name.
+
+* Commands
+
+  * pwd: Print Working Directory. Tells you what directory you are currently working in.
+  
+  * ls: List. Lists what is in the current directory.
+  
+  * cd: Change Directory.
+  
+  * . (dot): References your current directory.
+  
+  * .. (dotdot): References the parent directory.
+  
+  * ~ (tilde): A shortcut to the home directory.
+ 
