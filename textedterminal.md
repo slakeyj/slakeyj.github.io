@@ -29,13 +29,17 @@ Though many operating systems come with text editors already installed on them, 
 
 * Relative Paths specify a location in relation to where you currently are.
 
-* Pressing Tab will autocomplete the folder or file name.
+* Pressing Tab will autocomplete the directory or file name.
+
+* If a file or directory name begins with a . it is considered to be hidden.
 
 * Commands
 
   * pwd: Print Working Directory. Tells you what directory you are currently working in.
   
   * ls: List. Lists what is in the current directory.
+  
+  * ls -a: Lists everything in a the current directory included hidden files.
   
   * cd: Change Directory.
   
@@ -44,4 +48,6 @@ Though many operating systems come with text editors already installed on them, 
   * .. (dotdot): References the parent directory.
   
   * ~ (tilde): A shortcut to the home directory.
+  
+  * file: Tells you what type of file a file or directory is.
  
