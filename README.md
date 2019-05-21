@@ -11,14 +11,16 @@ E-Mail: susannalakey@gmail.com
 
 [GitHub](https://github.com/slakeyj)
 
-**What is a Growth Mindset**
+Table of Contents:
 
-A growth mindset is one that is accepting of challenges and mistakes.  Challenges are *embraced* rather than avoided.
+[Growth Mindset](https://slakeyj.github.io/growthmindset)
 
-#### Reminders to myself on how to keep myself on a growth mindset:
-- Don't ignore criticism, but learn from it.
-- Don't view others successes as a threat.  Be inspired by them.
-- Don't lose focus when obstacles come your way.  Persist through them.
+[Markdown](https://slakeyj.github.io/markdown)
+
+[Text Editor and Terminal](https://slakeyj.github.io/textedterminal)
+
+[Git](https://slakeyj.github.io/git)
+
 
 
 
