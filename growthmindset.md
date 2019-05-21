@@ -1,4 +1,4 @@
-**What is a Growth Mindset**
+### What is a Growth Mindset
 
 A growth mindset is one that is accepting of challenges and mistakes.  Challenges are *embraced* rather than avoided.
 

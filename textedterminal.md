@@ -39,7 +39,7 @@ Though many operating systems come with text editors already installed on them, 
   
   * ls: List. Lists what is in the current directory.
   
-  * ls -a: Lists everything in the current directory included hidden files.
+  * ls -a: Lists everything in the current directory including hidden files.
   
   * cd: Change Directory.
   
