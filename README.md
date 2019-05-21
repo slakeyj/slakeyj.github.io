@@ -11,7 +11,7 @@ E-Mail: susannalakey@gmail.com
 
 [GitHub](https://github.com/slakeyj)
 
-Table of Contents:
+**Table of Contents:**
 
 [Growth Mindset](https://slakeyj.github.io/growthmindset)
 
