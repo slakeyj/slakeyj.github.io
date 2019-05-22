@@ -40,7 +40,7 @@
     - Some characters are reserved for HTML code and require escape characters for them to appear on your page.
     - Some examples:
       - ```&lt;``` gives you &lt;
-      - ```&amp``` gives you &amp;
+      - ```&amp;``` gives you &amp;
       - ```&copy;``` gives you &copy;
 
 
