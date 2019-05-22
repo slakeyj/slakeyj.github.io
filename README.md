@@ -25,6 +25,8 @@ E-Mail: susannalakey@gmail.com
 
 [Git](https://slakeyj.github.io/git)
 
+[Design, Structure, & Layout](https://slakeyj.github.io/design)
+
 
 
 
