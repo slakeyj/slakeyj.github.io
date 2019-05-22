@@ -8,7 +8,9 @@
   - An example of a CSS rule:
 
     p {
-      font-family: Helvetica;s
+
+      font-family: Helvetica;
+      
     }
 
 - A &lt;link&gt; element is used within the &lt;head&gt; element to reference to your CSS file.  For example:
