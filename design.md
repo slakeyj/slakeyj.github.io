@@ -43,6 +43,8 @@
       - ```&amp;``` gives you &amp;
       - ```&copy;``` gives you &copy;
 
+Home Page](https://slakeyj.github.io/)
+
 
 
 
