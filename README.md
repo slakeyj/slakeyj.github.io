@@ -29,7 +29,9 @@ E-Mail: susannalakey@gmail.com
 
 [CSS](https://slakeyj.github.io/css)
 
-[Javascript](https://slakeyj.github.io/javascript)
+[Learning Javascript](https://slakeyj.github.io/javascript)
+
+[Introduction to Javascript](https://slakeyj.github.io/javascript2)
 
 [Computer Architecture & Logic](https://slakeyj.github.io/archlogic)
 

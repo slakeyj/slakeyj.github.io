@@ -1,4 +1,4 @@
-### Introduction to Javascript
+### Learning Javascript
 - A **script** is a series of instruction that a computer can follow.
 
   - Each instruction is a **statement**. All statements end with a semicolon.
