@@ -25,17 +25,19 @@
   - Expressions that use two or more values to return a single value.
     >var multiply = 5 *2;
 
-  - **Functions** allow you to group a series of statments together to accomplish a specific task.
+- **Functions** allow you to group a series of statments together to accomplish a specific task.
 
-    - When naming your function, it should describe the task you're trying to accomplish.
+  - When naming your function, it should describe the task you're trying to accomplish.
 
-    - **Calling** the function is when you ask it to perform its task.
+  - **Calling** the function is when you ask it to perform its task.
 
-    - **Parameters** are the pieces of information handed to a function.
+  - **Parameters** are the pieces of information handed to a function.
 
-    - **Return Value** is the answer the function provides.
+  - **Return Value** is the answer the function provides.
 
-    - **Function Declaration** is how you create a function.  Give it a name and then, inside of curly braces, write the statements that you need to achieve the task.
+  - **Function Declaration** is how you create a function.  Give it a name and then, inside of curly braces, write the statements that you need to achieve the task.
+
+    
 
 
 
