@@ -7,9 +7,9 @@
   3. Processing
   4. Output
 
-- Computers wor on ones and zeroes
+- Computers work on ones and zeroes
 
-- Inside a computer are electric wires and circuits that carry all the information in a computer.
+- Inside a computer are electric wires and circuits that carry all the information in it.
 
 - With one wire we can represent on/off, true/false, 1/0, etc.  This is known as a bit.  The more bits we have, the more complex information we can have.
 
