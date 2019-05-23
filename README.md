@@ -29,6 +29,8 @@ E-Mail: susannalakey@gmail.com
 
 [CSS](https://slakeyj.github.io/css)
 
+[Javascript](https://slakeyj.github.io/javascript)
+
 
 
 
