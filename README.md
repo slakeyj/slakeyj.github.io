@@ -31,6 +31,8 @@ E-Mail: susannalakey@gmail.com
 
 [Javascript](https://slakeyj.github.io/javascript)
 
+[Computer Architecture & Logic](https://slakeyj.github.io/archlogic)
+
 
 
 

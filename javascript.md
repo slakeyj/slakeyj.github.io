@@ -38,7 +38,7 @@
 
   4. Variables are case sensitive.
 
-  5. Use a name that desribes the kind of information being stored in the variable.
+  5. Use a name that describes the kind of information being stored in the variable.
 
   6. If your variable is made up of more than one word, use Camel Casing.  For example myName or newNumber.
 
