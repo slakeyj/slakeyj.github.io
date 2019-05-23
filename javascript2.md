@@ -9,7 +9,7 @@
 
 - A script is a series of instructions a computer can follow to achieve a goal. 
 
-- To write a script, you sshould break it down into smaller steps:
+- To write a script, you should break it down into smaller steps:
 
   1. Define the Goal.  What are you trying to achieve?
   2. Design the Script. Split the goal into a series of tasks.
@@ -23,9 +23,9 @@
     >var number = 2;
 
   - Expressions that use two or more values to return a single value.
-    >var multiply = 5 *2;
+    >var multiply = 5 * 2;
 
-- **Functions** allow you to group a series of statments together to accomplish a specific task.
+- **Functions** allow you to group a series of statements together to accomplish a specific task.
 
   - When naming your function, it should describe the task you're trying to accomplish.
 
